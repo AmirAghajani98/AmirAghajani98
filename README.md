@@ -19,31 +19,31 @@
 <tr>
 <td align="center" width="100">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Bootstrap-gray?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/CSS3-gray?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30" alt="Git"/>
+    <img src="https://img.shields.io/badge/Git-gray?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="30" height="30" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/GraphQL-gray?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/HTML5-gray?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
     <br>
   </a>
 </td>
@@ -51,37 +51,37 @@
 <tr>
 <td align="center" width="100">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" height="30" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Next.js-gray?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
     <br>
   </a>
 </td>
 <td align="center" width="100">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30" alt="React"/>
+    <img src="https://img.shields.io/badge/React-gray?style=flat-square&logo=react&logoColor=white" alt="React"/>
     <br>
   </a>
 </td>
 </tr>
-<!-- Add more rows and cells as needed -->
 </table>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiraghajani98&show_icons=true&locale=en&layout=compact" alt="amiraghajani98" /></p>
