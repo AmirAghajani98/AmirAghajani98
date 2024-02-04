@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amir aghajani</h1>
-<h3 align="center">I was born in Iran. I received my bachelors degree in business administration from QIAU. And I have been programming for two years. I like to understand the structure of everything and I always try to make the best use of the available tools. In terms of personality type, I am an introverted, intellectual and constructive person.</h3>
+<h3 align="center">I have been programming for two years. I like to understand the structure of everything and I always try to make the best use of the available tools. In terms of personality type, I am an introverted, intellectual and constructive person.</h3>
 
 - 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)
 
