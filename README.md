@@ -1,3 +1,16 @@
+<style>
+  td.gradient-link {
+    display: inline-block;
+    background-image: linear-gradient(to right, gray, blue);
+    color: white; /* Ensures text is readable on the gradient */
+    padding: 10px; /* Add some padding around the link text */
+    border-radius: 5px; /* Optional: rounds the corners */
+    text-decoration: none; /* Optional: removes underline from links */
+  }
+  td.gradient-link img {
+    border-radius: 50%; /* Makes the image circular */
+  }
+</style>
 <h1 align="center">Hi 👋, I'm amir aghajani</h1>
 <h3 align="center">I have been programming for two years. I like to understand the structure of everything and I always try to make the best use of the available tools. In terms of personality type, I am an introverted, intellectual and constructive person.</h3>
 
