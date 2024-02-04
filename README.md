@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm amir aghajani</h1>
 <h3 align="center">I was born in Iran. I received my bachelors degree in business administration from QIAU. And I have been programming for two years. I like to understand the structure of everything and I always try to make the best use of the available tools. In terms of personality type, I am an introverted, intellectual and constructive person.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiraghajani98&label=Profile%20views&color=0e75b6&style=flat" alt="amiraghajani98" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiraghajani98" alt="amiraghajani98" /></a> </p>
 
 - 🔭 I’m currently working on [workolo_projects](https://karjoo.plus/)
