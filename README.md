@@ -41,13 +41,7 @@
 ---
 
 <h3 align="left">GitHub Analytics:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiraghajani98&show_icons=true&locale=en" alt="amiraghajani98's GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiraghajani98&" alt="amiraghajani98's GitHub Streak" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amiraghajani98&theme=github" alt="amiraghajani98's GitHub Contributions Graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amiraghajani98&show_icons=true&locale=en" alt="amiraghajani98's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiraghajani98" alt="amiraghajani98's GitHub Streak" />
 </p>
