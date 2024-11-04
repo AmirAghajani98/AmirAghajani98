@@ -15,28 +15,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amir-aghajani/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Amir Aghajani" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn - Amir Aghajani" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<table>
-<tr>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C&color=transparent&logoWidth=20&shape=circle" alt="Bootstrap" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6&color=transparent&logoWidth=20&shape=circle" alt="CSS3" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=transparent&logoWidth=20&shape=circle" alt="Git" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=E10098&color=transparent&logoWidth=20&shape=circle" alt="GraphQL" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&color=transparent&logoWidth=20&shape=circle" alt="HTML5" /></td>
-</tr>
-<tr>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E&color=transparent&logoWidth=20&shape=circle" alt="JavaScript" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=000000&color=transparent&logoWidth=20&shape=circle" alt="Next.js" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791&color=transparent&logoWidth=20&shape=circle" alt="PostgreSQL" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=FF6C37&color=transparent&logoWidth=20&shape=circle" alt="Postman" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB&color=transparent&logoWidth=20&shape=circle" alt="React" /></td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /></a>
+  <a href="https://postman.com" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+</p>
 
 ---
 
