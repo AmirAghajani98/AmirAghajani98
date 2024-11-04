@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)
-- 🧑‍🏫 I also coach aspiring developers in modern web technologies
+- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)
 - 📫 Reach me at **amir.aghajani1377@gmail.com**
 - 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)
 
