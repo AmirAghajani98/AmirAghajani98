@@ -27,7 +27,7 @@
   <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="48" alt="Next.js" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /></a>
   <a href="https://postman.com" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
