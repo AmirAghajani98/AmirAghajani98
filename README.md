@@ -23,18 +23,18 @@
 <p align="left"> 
 <table>
 <tr>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=563D7C&color=transparent&logoWidth=20&shape=circle" alt="Bootstrap" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6&color=transparent&logoWidth=20&shape=circle" alt="CSS3" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=transparent&logoWidth=20&shape=circle" alt="Git" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=E10098&color=transparent&logoWidth=20&shape=circle" alt="GraphQL" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&color=transparent&logoWidth=20&shape=circle" alt="HTML5" /></td>
 </tr>
 <tr>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></td>
-  <td align="center" width="80"><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E&color=transparent&logoWidth=20&shape=circle" alt="JavaScript" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=000000&color=transparent&logoWidth=20&shape=circle" alt="Next.js" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791&color=transparent&logoWidth=20&shape=circle" alt="PostgreSQL" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=FF6C37&color=transparent&logoWidth=20&shape=circle" alt="Postman" /></td>
+  <td align="center" width="80"><img src="https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB&color=transparent&logoWidth=20&shape=circle" alt="React" /></td>
 </tr>
 </table>
 
