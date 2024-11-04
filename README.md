@@ -30,6 +30,8 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="48" alt="Next.js" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="tailwind" /></a>
+
 </p>
 
 ---
