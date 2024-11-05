@@ -17,8 +17,6 @@
   <a href="https://www.linkedin.com/in/amir-aghajani/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-</p>
-<p>
     <a href="amir.aghajani1377@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" width="40" />
   </a>
@@ -40,7 +38,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="48" alt="typescript" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="48" alt="mysql" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" width="48" alt="vscode" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" width="48" alt="vscode" /></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" width="48" alt="restapi" /></a>
 </p>
 
 ---
