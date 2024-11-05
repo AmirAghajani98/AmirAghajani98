@@ -40,8 +40,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" width="48" alt="vscode" /></a>
   <a href="" target="_blank"><img src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" width="48" alt="restapi" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000" width="48" alt="npm" /></a>
-  <a href="https://classic.yarnpkg.com/en/" target="_blank"><img width="64" height="64" src="![image](https://github.com/user-attachments/assets/6621c694-d029-463d-9443-b6391268a622)
-" width="48"  alt="yarn-logo"/></a>
+  <a href="https://classic.yarnpkg.com/en/" target="_blank"><img width="64" height="64" src="https://img.icons8.com/?size=100&id=4HNCSeV8mUJK&format=png&color=000000" width="48"  alt="yarn-logo"/></a>
 
 </p>
 
