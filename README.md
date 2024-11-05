@@ -32,7 +32,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width="48" alt="tailwind" /></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000" width="48" alt="wordpress" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="48" alt="wordpress" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="48" alt="typescript" /></a>
 
 
 </p>
