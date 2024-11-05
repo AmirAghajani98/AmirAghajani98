@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amir-aghajani/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn - Amir Aghajani" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
     <a href="amir.aghajani1377@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail - Amir Aghajani" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" width="40" />
   </a>
 </p>
 
