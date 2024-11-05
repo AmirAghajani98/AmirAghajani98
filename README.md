@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/amir-aghajani/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn - Amir Aghajani" width="40" />
   </a>
+    <a href="amir.aghajani1377@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail - Amir Aghajani" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
