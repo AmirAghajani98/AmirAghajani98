@@ -39,7 +39,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="48" alt="mysql" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" width="48" alt="vscode" /></a>
   <a href="" target="_blank"><img src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" width="48" alt="restapi" /></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=1VuwsQVEpfkq&format=png&color=000000" width="48" alt="restapi" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000" width="48" alt="npm" /></a>
+  <a href="https://classic.yarnpkg.com/en/" target="_blank"><img src="https://img.icons8.com/?size=100&id=4HNCSeV8mUJK&format=png&color=000000" width="48" alt="yarn" /></a>
+
 </p>
 
 ---
