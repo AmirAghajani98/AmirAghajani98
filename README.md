@@ -6,10 +6,10 @@
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="28">
 </a>
 <a href="https://www.linkedin.com/in/amir-aghajani/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="28">
 </a>
 
 # 💻 Tech Stack:
