@@ -13,7 +13,7 @@
 </a>
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10; width: 100;">
+<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 10; width:100% ;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20" style="margin: 5px;">
