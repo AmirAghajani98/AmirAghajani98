@@ -59,5 +59,8 @@
 
 ---
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=AmirAghajani98&icon=0&color=11)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AmirAghajani98&icon=0&color=11" alt="Visit Count Badge">
+  </a>
 </div>
+
