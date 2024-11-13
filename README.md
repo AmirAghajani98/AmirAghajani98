@@ -4,7 +4,7 @@
 <br>- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)<br>- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)<br>- 📫 Reach me at **amir.aghajani1377@gmail.com**<br>- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="28">
 </a>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 10; width:100% ;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" height="20" style="margin: 5px;">
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div style="display: flex; justify-content: stretch; align-items: center; width: 100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAghajani98&theme=nightowl&hide_border=false" alt="Streak Stats" style="width: 400px; height: 150px; margin-right: 100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAghajani98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Stats" style="width: 400px; height: 150px;">
