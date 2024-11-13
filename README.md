@@ -58,7 +58,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: stretch; align-items: center; width: 100%">
+<div  align="center"  style="display: flex; justify-content: stretch; align-items: center; width: 100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAghajani98&theme=nightowl&hide_border=false" alt="Streak Stats" style="width: 400px; height: 150px; margin-right: 100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAghajani98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Stats" style="width: 400px; height: 150px;">
 </div>
