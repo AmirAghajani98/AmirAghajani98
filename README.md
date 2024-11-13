@@ -66,7 +66,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4&secret=true&rank=commits,pull_requests,repositories)
 
 ---
 <br>
