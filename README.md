@@ -13,9 +13,10 @@
 </a>
 
 <br>
+<br>
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 10; width:100% ; padding-top: 300px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 10; width:100% ;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20" style="margin: 5px;">
@@ -52,6 +53,7 @@
 </div>
 
 <br>
+<br>
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: stretch; align-items: center; width: 100%">
@@ -60,12 +62,15 @@
 </div>
 
 <br>
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 <br>
+<br>
+
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
