@@ -5,7 +5,12 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-aghajani/) 
+<a href="https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30">
+</a>
+<a href="https://www.linkedin.com/in/amir-aghajani/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30">
+</a>
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10; width: 100;">
