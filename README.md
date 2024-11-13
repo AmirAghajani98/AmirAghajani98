@@ -1,4 +1,6 @@
-Hi 👋, I'm Amir Aghajani<br>Software Engineer and Web Development Coach<br><br>  Passionate about understanding the structure of technology, I strive to make the best use of available tools. As an introverted, intellectual, and constructive individual, I’m always looking to build impactful solutions in the world of web development.<br><br>- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)<br>- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)<br>- 📫 Reach me at **amir.aghajani1377@gmail.com**<br>- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)<br>
+<div align="center">
+Hi 👋, I'm Amir Aghajani<br>Software Engineer and Web Development Coach<br><br>  Passionate about understanding the structure of technology, I strive to make the best use of available tools. As an introverted, intellectual, and constructive individual, I’m always looking to build impactful solutions in the world of web development.<br> </div>
+<br>- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)<br>- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)<br>- 📫 Reach me at **amir.aghajani1377@gmail.com**<br>- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)<br>
 
 
 ## 🌐 Socials:
