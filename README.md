@@ -69,11 +69,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C)
 
----
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AmirAghajani98&icon=0&color=11" alt="Visit Count Badge">
-  </a>
-</div>
 
