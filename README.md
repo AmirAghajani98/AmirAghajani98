@@ -4,7 +4,7 @@
 <br>- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)<br>- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)<br>- 📫 Reach me at **amir.aghajani1377@gmail.com**<br>- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)<br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 <a href="https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="28">
 </a>
