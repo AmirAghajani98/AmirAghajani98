@@ -13,6 +13,7 @@
 </a>
 
 <br>
+
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 10; width:100% ;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5px;">
@@ -49,17 +50,22 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black" height="20" style="margin: 5px;">
 </div>
+
 <br>
+
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: stretch; align-items: center; width: 100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAghajani98&theme=nightowl&hide_border=false" alt="Streak Stats" style="width: 400px; height: 150px; margin-right: 100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAghajani98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Stats" style="width: 400px; height: 150px;">
 </div>
+
 <br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-<br>
+
 ---
+<br>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
