@@ -1,51 +1,20 @@
-<h1 align="center">Hi 👋, I'm Amir Aghajani</h1>
-<h3 align="center">Software Engineer and Web Development Coach</h3>
+Hi 👋, I'm Amir Aghajani<br>Software Engineer and Web Development Coach<br><br>  Passionate about understanding the structure of technology, I strive to make the best use of available tools. As an introverted, intellectual, and constructive individual, I’m always looking to build impactful solutions in the world of web development.<br><br>- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)<br>- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)<br>- 📫 Reach me at **amir.aghajani1377@gmail.com**<br>- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)<br>
 
-<p align="center">
-  Passionate about understanding the structure of technology, I strive to make the best use of available tools. As an introverted, intellectual, and constructive individual, I’m always looking to build impactful solutions in the world of web development.
-</p>
 
-- 🔭 I’m currently working on [karjoo.plus](https://karjoo.plus/)
-- 🧑‍🏫 I also coach aspiring developers in modern web technologies [Rahkar Education](https://github.com/rahkar-education)
-- 📫 Reach me at **amir.aghajani1377@gmail.com**
-- 📄 Discover more about my experiences on my [Portfolio](https://amiraghajani98.github.io/portfolio/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amiir_aghajani98/profilecard/?igsh=MWF0ZjdtbXA0bDRubA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-aghajani/) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=plastic&logo=Mantine&logoColor=339af0) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/amir-aghajani/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
-  </a>
-    <a href="amir.aghajani1377@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" width="40" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmirAghajani98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmirAghajani98&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAghajani98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="48" alt="Next.js" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width="48" alt="tailwind" /></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000" width="48" alt="wordpress" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="48" alt="typescript" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="48" alt="mysql" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" width="48" alt="vscode" /></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" width="48" alt="restapi" /></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000" width="48" alt="npm" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmirAghajani98&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AmirAghajani98&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<h3 align="left">GitHub Analytics:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraghajani98&show_icons=true&locale=en" alt="amiraghajani98's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiraghajani98" alt="amiraghajani98's GitHub Streak" />
-</p>
