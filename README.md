@@ -14,27 +14,26 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10; width: 100;">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="20" style="margin: 5;">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="20" style="margin: 5;">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white" height="20" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" height="20" style="margin: 5px;">
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white" height="20" style="margin: 5px;">
